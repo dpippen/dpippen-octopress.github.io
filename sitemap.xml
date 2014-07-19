@@ -5,14 +5,22 @@
   
   <url>
     <loc>http://dpippen.github.io/blog/archives/</loc>
+<<<<<<< HEAD
     <lastmod>2014-07-19T12:26:34-07:00</lastmod>
+=======
+    <lastmod>2014-07-19T10:49:09-07:00</lastmod>
+>>>>>>> 00789fed22148e167df490942ce9f1c7fc6d089a
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://dpippen.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2014-07-19T12:26:34-07:00</lastmod>
+=======
+    <lastmod>2014-07-19T10:49:09-07:00</lastmod>
+>>>>>>> 00789fed22148e167df490942ce9f1c7fc6d089a
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
